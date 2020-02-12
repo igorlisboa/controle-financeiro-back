@@ -1,4 +1,4 @@
-package service;
+package br.com.controlefinanceiro.api.service;
 
 public class Inicio {
 
@@ -6,7 +6,7 @@ public class Inicio {
 
         Debito debitador = new Debito();
 
-        Double resultado = debitador.debito(50d);
+        Double resultado = debitador.inserirDebito(50d);
 
         System.out.println("Após o debito, o saldo total é: "+ resultado);
 

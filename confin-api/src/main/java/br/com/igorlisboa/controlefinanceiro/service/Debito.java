@@ -1,4 +1,4 @@
-package service;
+package br.com.igorlisboa.controlefinanceiro.service;
 
 public class Debito {
 
@@ -7,7 +7,7 @@ public class Debito {
      * @param valorDebito
      * @return
      */
-    public Double debito(Double valorDebito){
+    public Double inserirDebito(Double valorDebito){
         Double valorEmConta = 1000.0d;
 
         return valorEmConta - valorDebito;
