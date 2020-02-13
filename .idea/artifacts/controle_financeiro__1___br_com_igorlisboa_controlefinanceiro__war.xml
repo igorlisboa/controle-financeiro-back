@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="controle-financeiro (1) (br.com.igorlisboa.controlefinanceiro):war">
+    <output-path>$PROJECT_DIR$/confin/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>controle-financeiro (1) (br.com.igorlisboa.controlefinanceiro)</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="controle-financeiro.war">
+      <element id="artifact" artifact-name="controle-financeiro (1) (br.com.igorlisboa.controlefinanceiro):war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -2,16 +2,22 @@
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <parent>
+    <groupId>br.com.igorlisboa.controlefinanceiro</groupId>
+    <artifactId>controle-financeiro-back</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+  </parent>
+
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>br.com.igorlisboa.controlefinanceiro</groupId>
   <artifactId>controle-financeiro</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>controle-financeiro Maven Webapp</name>
+  <name>controle-financeiro</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+<!--  <url>http://www.example.com</url>-->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -20,6 +26,23 @@
   </properties>
 
   <dependencies>
+    <dependency>
+      <groupId>br.com.igorlisboa.controlefinanceiro</groupId>
+      <artifactId>controle-financeiro-api</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.glassfish.jersey.containers</groupId>
+      <artifactId>jersey-container-servlet</artifactId>
+      <version>2.0</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.glassfish.jersey.media</groupId>
+      <artifactId>jersey-media-moxy</artifactId>
+      <version>2.0</version>
+    </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>

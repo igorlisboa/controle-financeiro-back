@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: br.com.igorlisboa.controlefinanceiro:controle-financeiro-api:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/igorlisboa/controlefinanceiro/controle-financeiro-api/unknown/controle-financeiro-api-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/igorlisboa/controlefinanceiro/controle-financeiro-api/unknown/controle-financeiro-api-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/igorlisboa/controlefinanceiro/controle-financeiro-api/unknown/controle-financeiro-api-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -6,14 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="confin" />
+        <module name="controle-financeiro" />
         <module name="confin-api" />
+        <module name="controle-financeiro-api" />
+        <module name="confin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="confin" target="1.7" />
       <module name="confin-api" target="1.7" />
-      <module name="controle-financeiro" target="1.5" />
+      <module name="controle-financeiro" target="1.7" />
+      <module name="controle-financeiro-api" target="1.7" />
+      <module name="controle-financeiro-back" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="controle-financeiro:war exploded">
+    <output-path>$PROJECT_DIR$/confin/target/controle-financeiro</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>controle-financeiro</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="controle-financeiro" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: br.com.igorlisboa.controlefinanceiro:controle-financeiro-api:unknown" />
+          <element id="library" level="project" name="Maven: error:error:unknown" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.16" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/confin/target/controle-financeiro/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="controle-financeiro/web/Web" />
+    </root>
+  </artifact>
+</component>

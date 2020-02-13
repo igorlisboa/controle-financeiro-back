@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/confin/confin.iml" filepath="$PROJECT_DIR$/confin/confin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/confin-api/confin-api.iml" filepath="$PROJECT_DIR$/confin-api/confin-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/controle-financeiro.iml" filepath="$PROJECT_DIR$/controle-financeiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confin/controle-financeiro.iml" filepath="$PROJECT_DIR$/confin/controle-financeiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confin-api/controle-financeiro-api.iml" filepath="$PROJECT_DIR$/confin-api/controle-financeiro-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-financeiro-back.iml" filepath="$PROJECT_DIR$/controle-financeiro-back.iml" />
     </modules>
   </component>
 </project>
