@@ -1,6 +1,6 @@
 package br.com.igorlisboa.controlefinanceiro.service;
 
-public class Debito {
+public class DebitoService {
 
     /**
      * Recebe o valor a ser debitado e retorna o valor restante após realizar o debito;

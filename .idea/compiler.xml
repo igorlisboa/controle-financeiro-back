@@ -16,7 +16,7 @@
       <module name="confin" target="1.7" />
       <module name="confin-api" target="1.7" />
       <module name="controle-financeiro" target="1.7" />
-      <module name="controle-financeiro-api" target="1.7" />
+      <module name="controle-financeiro-api" target="8" />
       <module name="controle-financeiro-back" target="1.5" />
     </bytecodeTargetLevel>
   </component>

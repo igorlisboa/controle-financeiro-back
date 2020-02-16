@@ -2,31 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a9545b3-0073-4533-b845-fc128ee98137" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_11_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_11_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/service/MovimentoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confin-api/controle-financeiro-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/controle-financeiro-api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/confin-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/entidades/CategoriaDescricao.java" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/entidades/CategoriaDescricao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/entidades/MovimentoCaixa.java" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/entidades/MovimentoCaixa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/entidades/TipoMovimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/entidades/TipoMovimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/service/Debito.java" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/service/DebitoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/service/Inicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/service/Inicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/util/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/util/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confin-api/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/confin-api/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +48,22 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="tgNBoJ96IU: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - tgNBoJ96IU@remotemysql.com" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tgNBoJ96IU: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="TIPOMOVIMENTO: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -99,13 +95,27 @@
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Inicio (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Inicio (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.igorlisboa.controlefinanceiro.service.Inicio" />
+      <module name="controle-financeiro-api" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.igorlisboa.controlefinanceiro.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Inicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="service.Inicio" />
@@ -154,6 +164,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inicio (1)" />
         <item itemvalue="Application.Inicio" />
       </list>
     </recent_temporary>
@@ -171,12 +182,12 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:MySQL - tgNBoJ96IU@remotemysql.com" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@9c2230d" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@12b1c93b" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:MySQL - tgNBoJ96IU@remotemysql.com" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@7f7ca5b3" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@9c2230d" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -198,7 +209,7 @@
       <workItem from="1581351518215" duration="1514000" />
       <workItem from="1581550242236" duration="42000" />
       <workItem from="1581550364469" duration="6419000" />
-      <workItem from="1581768806403" duration="19308000" />
+      <workItem from="1581768806403" duration="28384000" />
     </task>
     <servers />
   </component>
@@ -210,14 +221,18 @@
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state x="275" y="58" width="800" height="677" key="#Assign_Data_Sources/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581813067782" />
-    <state x="275" y="58" width="800" height="677" key="#Inspections" timestamp="1581812995541">
+    <state x="275" y="58" width="800" height="677" key="#Inspections" timestamp="1581820159083">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
-    <state x="275" y="58" width="800" height="677" key="#Inspections/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581812995541" />
-    <state x="67" y="39" width="1175" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581812108049">
+    <state x="275" y="58" width="800" height="677" key="#Inspections/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581820159083" />
+    <state x="67" y="39" width="1175" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581822755839">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
-    <state x="67" y="39" width="1175" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581812108049" />
+    <state x="67" y="39" width="1175" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581822755839" />
+    <state x="488" y="108" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1581820334250">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="488" y="108" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581820334250" />
     <state x="690" y="302" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581531607465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -230,39 +245,67 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="410" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581531617116" />
+    <state x="438" y="49" width="798" height="695" key="#xdebugger.evaluate" timestamp="1581821888558">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="438" y="49" width="798" height="695" key="#xdebugger.evaluate/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581821888558" />
+    <state width="518" height="540" key="DebuggerActiveHint" timestamp="1581821851447">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="518" height="540" key="DebuggerActiveHint/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581821851447" />
     <state x="463" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581551494286">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state x="463" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581551494286" />
-    <state width="1314" height="174" key="GridCell.Tab.0.bottom" timestamp="1581813977254">
+    <state width="1314" height="219" key="GridCell.Tab.0.bottom" timestamp="1581823231218">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state width="1877" height="210" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581540303186" />
-    <state width="1314" height="174" key="GridCell.Tab.0.bottom/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581813977254" />
-    <state width="1314" height="174" key="GridCell.Tab.0.center" timestamp="1581813977253">
+    <state width="1314" height="219" key="GridCell.Tab.0.bottom/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581823231218" />
+    <state width="1314" height="219" key="GridCell.Tab.0.center" timestamp="1581823231218">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state width="1877" height="210" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581540303185" />
-    <state width="1314" height="174" key="GridCell.Tab.0.center/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581813977253" />
-    <state width="1314" height="174" key="GridCell.Tab.0.left" timestamp="1581813977253">
+    <state width="1314" height="219" key="GridCell.Tab.0.center/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581823231218" />
+    <state width="1314" height="219" key="GridCell.Tab.0.left" timestamp="1581823231218">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state width="1877" height="210" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581540303185" />
-    <state width="1314" height="174" key="GridCell.Tab.0.left/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581813977253" />
-    <state width="1314" height="174" key="GridCell.Tab.0.right" timestamp="1581813977254">
+    <state width="1314" height="219" key="GridCell.Tab.0.left/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581823231218" />
+    <state width="1314" height="219" key="GridCell.Tab.0.right" timestamp="1581823231218">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state width="1877" height="210" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581540303186" />
-    <state width="1314" height="174" key="GridCell.Tab.0.right/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581813977254" />
+    <state width="1314" height="219" key="GridCell.Tab.0.right/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581823231218" />
+    <state width="1314" height="219" key="GridCell.Tab.1.bottom" timestamp="1581823231219">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1314" height="219" key="GridCell.Tab.1.bottom/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581823231219" />
+    <state width="1314" height="219" key="GridCell.Tab.1.center" timestamp="1581823231219">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1314" height="219" key="GridCell.Tab.1.center/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581823231219" />
+    <state width="1314" height="219" key="GridCell.Tab.1.left" timestamp="1581823231218">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1314" height="219" key="GridCell.Tab.1.left/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581823231218" />
+    <state width="1314" height="219" key="GridCell.Tab.1.right" timestamp="1581823231219">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1314" height="219" key="GridCell.Tab.1.right/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581823231219" />
     <state x="312" y="38" key="SettingsEditor" timestamp="1581554364014">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state x="440" y="98" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581538992519" />
     <state x="312" y="38" key="SettingsEditor/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581554364014" />
-    <state x="112" y="27" width="1123" height="741" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1581805562957">
+    <state width="680" height="371" key="XDebugger.FullValuePopup" timestamp="1581821888459">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
-    <state x="112" y="27" width="1123" height="741" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581805562956" />
+    <state width="680" height="371" key="XDebugger.FullValuePopup/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581821888458" />
+    <state x="112" y="27" width="1123" height="741" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1581820047891">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="112" y="27" width="1123" height="741" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581820047891" />
     <state x="530" y="161" width="290" height="471" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1581777936153">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
@@ -288,6 +331,17 @@
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state x="344" y="175" key="run.anything.popup/0.27.1360.741/1360.0.1366.768@0.27.1360.741" timestamp="1581811982675" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/confin-api/src/main/java/br/com/igorlisboa/controlefinanceiro/dao/MovimentoCaixaDao.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/controlefinanceiro$Debito_inserirDebitoTest.ic" NAME="Debito.inserirDebitoTest Coverage Results" MODIFIED="1581532182253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

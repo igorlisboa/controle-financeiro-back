@@ -6,6 +6,7 @@ import java.io.Serializable;
 @Entity
 @Table(name = "CATEGORIADESCRICAO")
 public class CategoriaDescricao implements Serializable {
+    private static final long serialVersionUID = 1L;
 
     @Id
     @GeneratedValue
@@ -15,7 +16,34 @@ public class CategoriaDescricao implements Serializable {
     @Column(name = "descricao")
     private String descricao;
 
-    @Column(name = "tipomovimento")
+    @Column(name = "tipomovimentacao")
     private TipoMovimento tipoMovimento;
 
+    public static long getSerialVersionUID() {
+        return serialVersionUID;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getDescricao() {
+        return descricao;
+    }
+
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
+    }
+
+    public TipoMovimento getTipoMovimento() {
+        return tipoMovimento;
+    }
+
+    public void setTipoMovimento(TipoMovimento tipoMovimento) {
+        this.tipoMovimento = tipoMovimento;
+    }
 }
